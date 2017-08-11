@@ -1,5 +1,5 @@
 # SENet
-Squeeze-and-Excitation Networks, a new architecture building block proposed by WMW team at the Imagenet2017 challenges(http://image-net.org/challenges/LSVRC/2017/results#team)
+Squeeze-and-Excitation Networks, a new architecture building block proposed by WMW team at the ILSVRC2017 challenges(http://image-net.org/challenges/LSVRC/2017/results#team)
 
 <div align=center>
 <img src="http://mmbiz.qpic.cn/mmbiz_png/wyU9Aq3pyFHk9z7KkTuONvglvx4wQcQN8Whvecicib4QRzlsCAozp3nrpwK60l5Xprxib14PMNhQE1bqxsV21ia75g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1">
