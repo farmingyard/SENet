@@ -95,7 +95,7 @@ layer {
 layer {
   name: "se2_1/scale"
   type: "Scale"
-  bottom: "conv2_1/sep"
+  bottom: "xxx"
   bottom: "se2_1/ip2"
   top: "se2_1/scale"
   scale_param {
