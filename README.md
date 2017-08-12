@@ -2,14 +2,14 @@
 Squeeze-and-Excitation Networks, a new architecture building block proposed by WMW team at the ILSVRC2017 challenges(http://image-net.org/challenges/LSVRC/2017/results#team)
 
 <div align=center>
-<img src="http://mmbiz.qpic.cn/mmbiz_png/wyU9Aq3pyFHk9z7KkTuONvglvx4wQcQN8Whvecicib4QRzlsCAozp3nrpwK60l5Xprxib14PMNhQE1bqxsV21ia75g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1">
+<img src="http://pics.haik8.com/nqvaoZtoY6GlxJuvYKfWmZlkxaJhpc-bna-SoKCfYq/6vjJ9y0mykrX6qnW6sbbGbiquxgqifzq-saaqBlYmBb42f3JbEopedmpaDh6yi2XN3pdykZabUqauAaWCebYunqK_Pk5JthIGGyoN6Y5jXqKmMlGWbmZlum2Rjb6mwkp2jq6Ohz6A.jpg">
 </div>
 
 <div align=center>
 Figure 1: Inception and resnet with SE module.
 </div> 
 
-For more information, please refer to this article(http://mp.weixin.qq.com/s?timestamp=1502416930&src=3&ver=1&signature=ZeDCJTRMctfxfqL4UNTaTcWvBzVOW36VEjPuih9n-0NgsSxuAC4Xm4QyMOXzYDT03BNrgmJDgVoYr8HXV8DaQ47UyVMnR7jI-IMrxa-0DdLpdXvDpzVNqjawGngRwz7W0qy6AOtydTsU-ENJ6HRPZBOMy51IFxxLLUoEOj6NxqM=)
+For more information, please refer to this article(http://www.haik8.com/p/jxz4p.html)
 
 
 ## SE module with caffe
